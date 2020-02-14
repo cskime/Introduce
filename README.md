@@ -1,9 +1,9 @@
 # 김참솔(Chamsol Kim)
 
-- 🐙 [My Github](https://github.com/cskime), [Dev Crew](https://github.com/TheSwifters)
+- 🐙 [My Github](https://github.com/cskime), [Dev Crew](https://github.com/TheSwifters)
 - 💻 [Blog](https://cskime.github.io)
-- 📝 [Resume]() : WIP[^1]
-- 📞 [Contact Me](https://github.com/cskime/Introduce#Contact)
+- 📝 [Resume]() : WIP<sup id="sup1">[1](#footnote1)</sup>
+- 📞 [Contact Me](https://github.com/cskime/Introduce#Contact)
 
 ## Activity
 
@@ -25,9 +25,9 @@
   - FastCampus 자체 해커톤 공동 1위
   - 기능을 보완하여 app store 출시 예정
 - Duration : 2020.02.05 ~ 2020.02.07
-- Part : Data & Class Architecture Design. **(LoC[^2] 80%)**
+- Part : Data & Class Architecture Design. (LoC<sup id="sup2">[2](#footnote2)</sup> 80%)
 - Teck Stack : Swift, Delegate Pattern, MVC Pattern
-- 👉🏻 [Go to Repository](https://github.com/cskime/UIKit-Viewer)
+- 👉🏻 [Go to Repository](https://github.com/cskime/UIKit-Viewer)
 
 <img src="images/UIKitViewer-description.png" alt="Page Description" width="90%">
 
@@ -37,9 +37,9 @@
   - 목표지점을 부여하여 강아지와 산책하는 것에 동기를 부여하기 위한 앱
   - FastCampus 자체 해커톤 2위
 - Duration : 2020.01.15 ~ 20.01.17
-- Part : Data Architecture Design, Firestore 연동, MapKit & CoreLocation **(LoC[^2] 60%)**
+- Part : Data Architecture Design, Firestore 연동, MapKit & CoreLocation (LoC[^2] 60%)
 - Teck Stack : Swift, Cloud Firestore, MapKit, CoreLocation, UIView Animation
-- 👉🏻 [Go to Repository](https://github.com/cskime/PetWalk)
+- 👉🏻 [Go to Repository](https://github.com/cskime/PetWalk)
 
 <img src="images/PetWalk-description.png" alt="Page Description" width="90%">
 
@@ -60,5 +60,7 @@
 
 ---
 
-[^1]: Work In Process
-[^2]: 기여도. Level of Contribution
+<b id="footnote1">1</b> Work In Progress. 작업중 [↩︎](#sup1)
+
+<b id="footnote2">2</b> Level of Contribution. 기여도 [↩︎](#sup2)
+

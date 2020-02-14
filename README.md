@@ -25,7 +25,7 @@
 - Teck Stack : Swift, Delegate Pattern, MVC Pattern
 - Link : WIP
 
-<img src="Projects/Hackathon-UIKitViewer/images/page-description.png" alt="Page Description" width="90%">
+<img src="images/UIKitViewer-description.png" alt="Page Description" width="90%">
 
 ### Pet Walk
 
@@ -37,7 +37,7 @@
 - Teck Stack : Swift, Cloud Firestore, MapKit, CoreLocation, UIView Animation
 - Link : WIP
 
-<img src="Projects/Hackathon-PetWalk/images/page-description.png" alt="Page Description" width="90%">
+<img src="images/PetWalk-description.png" alt="Page Description" width="90%">
 
 ### Femora
 
@@ -46,4 +46,5 @@
 - Teck Stack : Swift, Objective-C, C#, SQLite, Git
 - Link : http://didim-korea.com/product/
 
-<img src="Projects/Femora/images/page-description.png" alt="Page Description" width="50%">
+<img src="images/Femora-description.png" alt="Page Description" width="50%">
+

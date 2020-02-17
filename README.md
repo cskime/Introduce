@@ -2,18 +2,21 @@
 
 - 🐙 [My Github](https://github.com/cskime), [Dev Crew](https://github.com/TheSwifters)
 - 💻 [Blog](https://cskime.github.io)
-- 📝 [Resume]() : WIP<sup id="sup1">[0](#footnote0)</sup>
+- 📝 Resume : WIP<sup id="sup1">[0](#footnote0)</sup>
 - 📞 [Contact Me](https://github.com/cskime/Introduce#Contact)
 
 ## Activity
 
 - **(주)디딤 iOS 개발** : 2018.11 ~ 2019.07
-  - iOS app on iPad
+  - iOS app for iPad
   - Swift, Objective-C, C#, SQLite, Git
-- **FastCampus iOS School 10th 수료** : 2019.11 ~ 2020.04
+- **FastCampus iOS School 10th** : 2019.11 ~ 
+  - [FastCampus iOS Study Log](https://github.com/cskime/iOS-Study-Log)
+  - Swift, iOS, Git
+  - Firebase: Realtime Database, Cloud Firestore
 - **충북대학교 스마트자동차공학 연계전공** : 2011.03 ~ 2019.02
   - [졸업작품: Image Processing을 활용한 자율 주차 시스템](https://github.com/cskime/GraduationProject)
-  - C/C++, Arduino
+  - C/C++
 - **충북대학교 전자공학 전공** : 2017.09 ~ 2019.02
 
 ## Projects
@@ -26,7 +29,7 @@
   - 기능을 보완하여 app store 출시 예정
 - Duration : 2020.02.05 ~ 2020.02.07
 - Part : Data & Class Architecture Design. (LoC<sup id="sup2">[1](#footnote1)</sup> 90%)
-- Teck Stack : Swift, Delegate Pattern, MVC Pattern
+- Teck Stack : Swift
 - 👉🏻 [Go to Repository](https://github.com/cskime/UIKit-Viewer)
 
 <img src="images/UIKitViewer-description.png" alt="Page Description" width="90%">
@@ -34,7 +37,7 @@
 ### Pet Walk(Let's Mung!)
 
 - Description
-  - 목표지점을 부여하여 강아지와 산책하는 것에 동기를 부여하기 위한 앱
+  - 목표지점 달성을 통해 강아지와 산책하는 것에 동기를 부여하기 위한 앱
   - FastCampus 자체 해커톤 2위
 - Duration : 2020.01.15 ~ 20.01.17
 - Part : Data Architecture Design, Firestore 연동, MapKit & CoreLocation (LoC<sup id="sup2">[1](#footnote1)</sup> 65%)

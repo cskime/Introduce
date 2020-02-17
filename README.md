@@ -39,9 +39,9 @@
 - Description
   - 목표지점 달성을 통해 강아지와 산책하는 것에 동기를 부여하기 위한 앱
   - FastCampus 자체 해커톤 2위
-- Duration : 2020.01.15 ~ 20.01.17
+- Duration : 2020.01.15 ~ 2020.01.17
 - Part : Data Architecture Design, Firestore 연동, MapKit & CoreLocation (LoC<sup id="sup2">[1](#footnote1)</sup> 65%)
-- Teck Stack : Swift, Cloud Firestore, MapKit, CoreLocation, UIView Animation
+- Teck Stack : Swift, Cloud Firestore, MapKit, UIView Animation
 - 👉🏻 [Go to Repository](https://github.com/cskime/PetWalk)
 
 <img src="images/PetWalk-description.png" alt="Page Description" width="90%">

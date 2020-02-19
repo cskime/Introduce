@@ -12,8 +12,8 @@
   - Swift, Objective-C, C#, SQLite, Git
 - **FastCampus iOS School 10th** : 2019.11 ~ 
   - [FastCampus iOS Study Log](https://github.com/cskime/iOS-Study-Log)
-  - Swift, iOS, Git
-  - Firebase: Realtime Database, Cloud Firestore
+  - [수업과 별도로 Swift, iOS 등 스터디 진행](https://github.com/TheSwifters)
+  - Swift, iOS, Git, Firebase, RxSwift
 - **충북대학교 스마트자동차공학 연계전공** : 2011.03 ~ 2019.02
   - [졸업작품: Image Processing을 활용한 자율 주차 시스템](https://github.com/cskime/GraduationProject)
   - C/C++

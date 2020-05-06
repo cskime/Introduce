@@ -9,8 +9,10 @@
 ## Table Of Contents
 
 - [Career](https://github.com/cskime/Portfolio#career)
-  - FastCampus iOS School 10th
   - (주) 디딤
+- [Education](https://github.com/cskime/Portfolio#education)
+  - FastCampus iOS School 10th
+  - 충북대학교 전자공학 및 스마트자동차공학 전공
 - [Projects](https://github.com/cskime/Portfolio#projects)
   - UIKitViewer
   - 당근마켓 clone
@@ -21,12 +23,17 @@
 
 ## Career
 
+- (주)디딤 iOS 개발 (2018.11 ~ 2019.07)
+
+
+
+## Education
+
 - FastCampus iOS School 10th (2019.11 ~ 2020.04)
   - [FastCampus iOS Study Log](https://github.com/cskime/iOS-Study-Log)
   - [Swift study](https://github.com/TheSwifters/iOS-Study)
-- (주)디딤 iOS 개발 (2018.11 ~ 2019.07)
 - 충북대학교 전자공학 및 스마트자동차공학 전공 : 2011.03 ~ 2019.02
-  - [졸업작품: Image Processing을 활용한 자율 주차 시스템](https://github.com/cskime/GraduationProject)
+  - 졸업작품: [Image Processing을 활용한 자율 주차 시스템](https://github.com/cskime/GraduationProject)
 
 
 

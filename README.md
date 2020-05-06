@@ -45,12 +45,12 @@
 - 사용기술 : Swift, UIKit
 - [Show Detail](https://github.com/cskime/UIKit-Viewer) 👀
 
-<p>
-  <img src="images/UIKitViewer/launch.png" width="24%">
-  <img src="images/UIKitViewer/home.png" width="24%">
-  <img src="images/UIKitViewer/tableView.png" width="24%">
-  <img src="images/UIKitViewer/collectionView.png" width="24%">
-</p>
+  <p>
+    <img src="images/UIKitViewer/launch.png" width="15%">
+    <img src="images/UIKitViewer/home.png" width="15%">
+    <img src="images/UIKitViewer/tableView.png" width="15%">
+    <img src="images/UIKitViewer/collectionView.png" width="15%">
+  </p>
 
 
 
@@ -65,12 +65,12 @@
 - 사용기술 : Swift, APNs, Firebase(Authorization, FCM)
 - [Show Detail](https://github.com/cskime/iOS_DaangnMarket) 👀
 
-<p>
-  <img src="images/Daangn/launch.png" width="24%">
-  <img src="images/Daangn/home.png" width="24%">
-  <img src="images/Daangn/login.png" width="24%">
-  <img src="images/Daangn/product.png" width="24%">
-</p>
+  <p>
+    <img src="images/Daangn/launch.png" width="15%">
+    <img src="images/Daangn/home.png" width="15%">
+    <img src="images/Daangn/login.png" width="15%">
+    <img src="images/Daangn/product.png" width="15%">
+  </p>
 
 
 ### Let's Mung!
@@ -86,12 +86,12 @@
 - 사용기술 : Swift, Firebase(Database), CoreLocation
 - [Show Detail](https://github.com/cskime/PetWalk) 👀
 
-<p>
-  <img src="images/LetsMung/launch.png" width="24%">
-  <img src="images/LetsMung/home.png" width="24%">
-  <img src="images/LetsMung/walk.png" width="24%">
-  <img src="images/LetsMung/history.png" width="24%">
-</p>
+  <p>
+    <img src="images/LetsMung/launch.png" width="15%">
+    <img src="images/LetsMung/home.png" width="15%">
+    <img src="images/LetsMung/walk.png" width="15%">
+    <img src="images/LetsMung/history.png" width="15%">
+  </p>
 
 
 

@@ -103,9 +103,10 @@
 - 역할 : iPad용 iOS 앱 개발
 - 사용기술 : Swift, Objective-C, C#, Unity, SQLite
 
-<p>
-  <img src="images/Femora/Femora-description.png" width="50%">
-</p>
+  <p>
+    <img src="images/Femora/Femora-description.png" width="50%">
+  </p>
+  
 ---
 
 <b id="footnote1"><sup>0</sup></b> Work In Progress. 작업중 [↩︎](#sup1)

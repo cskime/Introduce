@@ -3,27 +3,14 @@
 - Email : kcsol1005@gmail.com
 - Github : https://github.com/cskime
 - Blog : https://cskime.github.io
-
-
-
-## Table Of Contents
-
-- [Career](https://github.com/cskime/Portfolio#career)
-  - (주) 디딤
-- [Education](https://github.com/cskime/Portfolio#education)
-  - FastCampus iOS School 10th
-  - 충북대학교 전자공학 및 스마트자동차공학 전공
-- [Projects](https://github.com/cskime/Portfolio#projects)
-  - UIKitViewer
-  - 당근마켓 clone
-  - Let's Mung!
-  - Femora
+- Resume : https://www.notion.so/403e0dc076e04c6f885940b8ea8a02e9
 
 
 
 ## Career
 
-- (주)디딤 iOS 개발 (2018.11 ~ 2019.07)
+- (주)iPortfolio (2019.08 ~ )
+- (주)디딤 (2018.11 ~ 2019.07)
 
 
 
@@ -104,18 +91,10 @@
 
 ### Femora
 
-> (주) 디딤에서 개발한 Unity 기반 iPad용 iOS application
+> (주) 디딤의 Unity 기반 3차원 골형상 재건 iPad application
 
 - 기간 : 2018.11 ~ 2019.04
 - 역할 : iPad용 iOS 앱 개발
 - 사용기술 : Swift, Objective-C, C#, Unity, SQLite
-
-  <p>
-    <img src="images/Femora/Femora-description.png" width="50%">
-  </p>
-  
----
-
-<b id="footnote1"><sup>0</sup></b> Work In Progress. 작업중 [↩︎](#sup1)
-<b id="footnote2"><sup>1</sup></b> Level of Contribution. 기여도 [↩︎](#sup2)
+- [HomePage](http://didim-korea.com)
 
